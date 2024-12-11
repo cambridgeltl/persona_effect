@@ -1,0 +1,9 @@
+**Question**: Where would you place YOURSELF on the following ideology scale?
+(A) Extremely liberal
+(B) Liberal
+(C) Slightly liberal
+(D) Moderate
+(E) Slightly conservative
+(F) Conservative
+(G) Extremely conservative
+**Answer**: (

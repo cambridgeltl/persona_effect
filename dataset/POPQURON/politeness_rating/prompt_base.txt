@@ -1,0 +1,8 @@
+**Question**: Consider you read this email from a colleague, how polite do you think it is? 
+**Email:**: "%s"
+(A) not polite at all
+(B) barely polite
+(C) somewhat polite
+(D) moderately polite
+(E) very polite
+**Answer**: (

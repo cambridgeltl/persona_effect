@@ -1,0 +1,7 @@
+**Question**: To what extent do you agree with the statement "I feel that I have a pretty good understanding of the important political issues facing our country"?
+(A) Agree strongly
+(B) Agree somewhat
+(C) Neither agree nor disagree
+(D) Disagree somewhat
+(E) Disagree strongly
+**Answer**: (

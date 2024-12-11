@@ -1,0 +1,6 @@
+**Question**: How interested are you in politics and public affairs?
+(A) Very interested
+(B) Somewhat interested
+(C) Slightly interested
+(D) Not at all interested
+**Answer**: (

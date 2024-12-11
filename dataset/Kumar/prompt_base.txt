@@ -1,0 +1,7 @@
+**Question**: How toxic do you personally find this comment? "%s"
+(A) Extremely toxic
+(B) Very toxic
+(C) Moderately toxic
+(D) Slightly toxic
+(E) Not at all toxic
+**Answer**: (

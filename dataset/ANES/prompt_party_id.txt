@@ -1,0 +1,9 @@
+**Question**: Which of the following best describes your current political party identification?
+(A) A strong Democrat
+(B) A weak Democrat
+(C) An independent who leans Democratic
+(D) An independent
+(E) An independent who leans Republican
+(F) A weak Republican
+(G) A strong Republican
+**Answer**: (

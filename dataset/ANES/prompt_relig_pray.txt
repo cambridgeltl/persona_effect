@@ -1,0 +1,7 @@
+**Question**: People practice their religion in different ways. Outside of attending religious services, how often do you pray?
+(A) Several times a day
+(B) Once a day
+(C) A few times a week
+(D) Once a week or less
+(E) Never
+**Answer**: (

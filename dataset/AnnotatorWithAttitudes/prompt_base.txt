@@ -1,0 +1,7 @@
+**Question**: How toxic/hateful/disrespectful or offensive does this post seem to you? (Note: The purpose is to understand how disrespect/offense can show up in language, not making statements about the actual content of the posts.) "%s"
+(A) not offensive at all
+(B) mildly inappropriate
+(C) somewhat offensive
+(D) moderately offensive
+(E) very offensive
+**Answer**: (

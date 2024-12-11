@@ -1,0 +1,7 @@
+**Question**: What is your race and ethnicity?
+(A) White, non-Hispanic
+(B) Black, non-Hispanic
+(C) Asian, native Hawaiian or other Pacific Islander, non-Hispanic
+(D) Native American or Alaska Native, non-Hispanic
+(E) Hispanic
+**Answer**: (

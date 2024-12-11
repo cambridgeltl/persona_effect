@@ -1,0 +1,12 @@
+Irony is a figurative language device that conveys the opposite of literal meaning, profiling intentionally a secondary or extended meaning.
+For instance,
+message: "if ur homeless u probably wouldn't have a phone."
+reply: "Yes, and all your belongings would be in a handkerchief tied at the end of a stick." --> irony: yes
+message: "if ur homeless u probably wouldn't have a phone."
+reply: "Yes, you're right."--> irony: yes
+**Question**: Is the reply ironic in the following message and reply pair?
+message: "%s"
+reply: "%s"
+(A) Ironic
+(B) Not ironic
+**Answer**: (
